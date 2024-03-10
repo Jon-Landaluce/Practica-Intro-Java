@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejercicio_2",
+            "request": "launch",
+            "mainClass": "Ejercicio_2",
+            "projectName": "Practica Intro Java - Jon Landaluce_8df716e9"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio_1",
+            "request": "launch",
+            "mainClass": "Ejercicio_1",
+            "projectName": "Practica Intro Java - Jon Landaluce_8df716e9"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "1 GPT - copia - FINAL_2866acbb"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "1 GPT - copia_13498138"
+        }
+    ]
+}
